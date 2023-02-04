@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+}
+
+.Activity
+{
+    border-style: dotted ridge;
+    border-color: red;
+    padding: 10px;
+    font-size: large;
+}
+
+dt:hover, li:hover
+{
+    background-color: gold;
+    width: fit-content;
+}
+
+h1
+{
+    margin-top: auto;
+    border-color: red;
+    border-style:groove;
+    width: fit-content;
+
+}
+
+h2,h3,h4
+{
+    font-size: larger;
+}
+
+header
+{
+    font-size: larger;
+    border-style: double;
+    border-color: black;
+    
+    padding-top: 40px;
+    width: fit-content;
+    height: fit-content;
+    border-block-color: red;
+}
